@@ -25,11 +25,7 @@
 
 ![Alt text](https://github.com/BarbatosRE/My-ip-info/blob/master/0_1MELUoNttmEQVseZ.jpg)
 
-### mas info de la api
-
+#mas info de la api :
 [IPINFO](http://https://ipinfo.io/)
 
 
-
-
-![Alt text](https://github.com/BarbatosRE/Repo-3/blob/master/agit.png?raw=true "chula y coffy")

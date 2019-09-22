@@ -4,23 +4,23 @@
 [![Build Status](https://img.shields.io/badge/Api-ipinfo.io-blue?logo=)]()
 
 # MY ip info
-###una simple script para escanear puertos y obtener informacion de nuestra ip
-###tal como:
+### una simple script para escanear puertos y obtener informacion de nuestra ip
+### tal como:
 
-*nombre de la red*
-*pais/geolocalisacion*
-*ip/publica/privada*
-*informacion de nuestro vendor.*
+* nombre de la red
+* pais/geolocalisacion
+* ip/publica/privada
+* informacion de nuestro vendor.
 
 ## Ejercicio con SOCKET #1
 
-###requisitos
+### requisitos
 
-*socket*
-*json*
-*urllib*
-*getpass*
-*colorama*
+* socket
+* json
+* urllib
+* getpass
+* colorama
 
 
 ![Alt text](https://github.com/BarbatosRE/My-ip-info/blob/master/0_1MELUoNttmEQVseZ.jpg)

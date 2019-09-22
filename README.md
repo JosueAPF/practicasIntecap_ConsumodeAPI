@@ -1,6 +1,10 @@
-# Repo-3
 
-## Repositorio Numero #3
+
+# MY ip info
+
+
+
+## Ejercicio con SOCKET
 
 
 ![Alt text](https://github.com/BarbatosRE/My-ip-info/blob/master/0_1MELUoNttmEQVseZ.jpg)

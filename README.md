@@ -1,5 +1,5 @@
 [![Build Status](https://img.shields.io/badge/Python-3.7-green?logo=python)]()
-[![Build Status](https://img.shields.io/badge/Lib-Socket-gray?logo=python)]()
+[![Build Status](https://img.shields.io/badge/Lib-Socket-ligthgreen?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Api-ipinfo.io-blue?logo=)]()
 
 # MY ip info

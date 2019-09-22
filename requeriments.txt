@@ -1,0 +1,37 @@
+json
+getpass
+colorama
+socket
+urllib
+os
+
+
+import socket 
+#tipo de conexion
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+port = 500# puerto de comunicacion
+
+sock.connect(('localhost',port))
+#leemos datos del servidor
+data = sock.recv(4096)
+#cerramos el socket
+sock.closer()
+#mostramos datos recividos
+print(data.decode())
+
+#--------
+import socket
+
+sock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+port = 500
+sock.bind(('localhost',port))#ip y puerto en una tupla
+
+print("esperando conexiones en el puerto",port)
+sock.listen(1)
+
+con, client_addr = sock.accept()
+text = "hola soy el servidor"
+con.send(text,encode())
+
+con.close()#cierre conexion
+sock.close()#cierre socket

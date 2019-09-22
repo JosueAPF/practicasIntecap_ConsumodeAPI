@@ -1,6 +1,8 @@
 [![Build Status](https://img.shields.io/badge/Python-3.7-green?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Lib-Socket-ligthgreen?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Lib-Json-red?logo=python)]()
+[![Build Status](https://img.shields.io/badge/Lib-Urllib-ligthgrey?logo=python)]()
+[![Build Status](https://img.shields.io/badge/Lib-Colorama-lightred?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Api-ipinfo.io-blue?logo=)]()
 
 # Ejercicio con SOCKET #1

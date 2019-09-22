@@ -26,6 +26,6 @@
 ![Alt text](https://github.com/BarbatosRE/My-ip-info/blob/master/0_1MELUoNttmEQVseZ.jpg)
 
 # Mas info de la api :
-[IPINFO](http://https://ipinfo.io/)
+# [IPINFO](http://https://ipinfo.io/)
 
 

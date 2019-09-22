@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/badge/Lib-Json-red?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Api-ipinfo.io-blue?logo=)]()
 
-# MY ip info
+# Ejercicio con SOCKET #1
 ### una simple script para escanear puertos y obtener informacion de nuestra ip
 ### tal como:
 
@@ -12,7 +12,7 @@
 * ip/publica/privada
 * informacion de nuestro vendor.
 
-## Ejercicio con SOCKET #1
+## MY ip info
 
 ### requisitos
 
@@ -24,6 +24,10 @@
 
 
 ![Alt text](https://github.com/BarbatosRE/My-ip-info/blob/master/0_1MELUoNttmEQVseZ.jpg)
+
+### mas info de la api
+
+[IPINFO](http://https://ipinfo.io/)
 
 
 

@@ -5,16 +5,14 @@
 [![Build Status](https://img.shields.io/badge/Lib-Colorama-yellow?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Api-ipinfo.io-blue?logo=)]()
 
-# Ejercicio con SOCKET #1
+# Proyecto intecap #2
 ### una simple script para escanear puertos y obtener informacion de nuestra ip
 ### tal como:
 
 * nombre de la red
 * pais/geolocalisacion
 * ip/publica/privada
-* informacion de nuestro vendor.
 
-## MY ip info
 
 ### requisitos
 
